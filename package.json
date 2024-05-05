@@ -1,0 +1,14 @@
+{
+  "name": "calculator-test-test",
+  "version": "1.0.1",
+  "description": "simple calculator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "tej",
+  "license": "ISC"
+}
